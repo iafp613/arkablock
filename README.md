@@ -1,11 +1,14 @@
 <h1 align="center"> ARKABLOCK GAME<br> Proyecto individual de creación de videojuego con C++.</h1>
 <p align="center"><img src="Imágenes Originales\logoArkaBlock.jpg"></p>
 
-_Es bien sabido por todos que en los últimos años, la esperanza de vida de la población española, así como el aumento de la calidad asistencial y los últimos avances médicos han supuesto una revolución en la mejora de hospitales, centros médicos y tratamientos frente a diversas enfermedades. Por el contrario, la industrialización de un gran número de procesos artesanales, el uso abusivo de químicos en los alimentos, el aumento de la contaminación ambiental, el éxodo masivo a las ciudades y su estresante modo de vida, y la globalización (que propaga enfermedades más rápidamente, como hemos verificado recientemente con SARS-CoV-2); han provocado un crecimiento exponencial de enfermedades (que hace unos años eran menos frecuentes) y un brote de nuevas patologías._
+_Con este proyecto he querido aplicar lo aprendido en el lenguaje de programación C++ y la librería Allegro para poder crear un videojuego arcade._
 
-_Por este motivo, quise realizar un análisis exploratorio de datos para comprobar si las tasas de mortalidad en España han aumentado o, por el contrario, han disminuido._
+_Muy parecido al original, la dinámica de este juego consiste en destruir unos ladrillos que se encuentran en la parte superior de la pantalla con una bola que va rebotando desde una base que se desplaza horizontalmente por la acción del jugador. Si la bola cae al fondo de la pantalla, se pierde una vida y el nivel cuando se pierden todas las oportunidades._
 
-_Con todos los datos obtenidos quiero concluir si en España, la tecnología, los avances médicos y el estilo de vida de los últimos cuarenta años han contribuido o no al aumento de la mortalidad._
+_Para las imágenes, música y fuentes, he utilizado recursos de licencia libre y me he guiado por tutoriales encontrados en internet, así como de lo que aprendí, para realizar el código._
+
+_¡¡¡Espero que te guste y sirva de inspiración!!!_
+
 
 ![GitHub watchers](https://img.shields.io/github/watchers/iafp613/arkablock?style=social)
 
@@ -27,6 +30,7 @@ _Para poder probar el código entero, necesitarás tener instalado Allegro y un 
 
 * [Code::Blocks](https://www.codeblocks.org/) - Compilador
 * [Allegro](https://github.com/liballeg/allegro_wiki) - Biblioteca para C++
+* [Macromedia Fireworks 8](https://macromedia-fireworks.uptodown.com/windows) - Editor de imágenes
 
 
 ## Contribuyendo 🖇️
@@ -55,11 +59,11 @@ _Para poder probar el código entero, necesitarás tener instalado Allegro y un 
 
 ## Imágenes 🎴
 
-<p align="center"><img src="Imágenes Originales\Sample1.jpg"></p>
+<p align="center"><img src="Imágenes Originales\Pantalla Juego.jpg"></p>
 
 <p align="center"><img src="Imágenes Originales\Sample2.jpg"></p>
 
-<p align="center"><img src="Imágenes Originales\Pantalla Juego.jpg"></p>
+<p align="center"><img src="Imágenes Originales\Sample1.jpg"></p>
 
 
 ## Licencia 📄
