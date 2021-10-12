@@ -1,5 +1,5 @@
 <h1 align="center"> ARKABLOCK GAME - Proyecto individual de creación de videojuego con C++.</h1>
-<p align="center"><img src="../arkablock/Imágenes originales/logoArkaBlock.jpg"/></p>
+<p align="center"><img src="Imágenes Originales\logoArkaBlock.jpg"></p>
 
 _Es bien sabido por todos que en los últimos años, la esperanza de vida de la población española, así como el aumento de la calidad asistencial y los últimos avances médicos han supuesto una revolución en la mejora de hospitales, centros médicos y tratamientos frente a diversas enfermedades. Por el contrario, la industrialización de un gran número de procesos artesanales, el uso abusivo de químicos en los alimentos, el aumento de la contaminación ambiental, el éxodo masivo a las ciudades y su estresante modo de vida, y la globalización (que propaga enfermedades más rápidamente, como hemos verificado recientemente con SARS-CoV-2); han provocado un crecimiento exponencial de enfermedades (que hace unos años eran menos frecuentes) y un brote de nuevas patologías._
 
